@@ -10,7 +10,7 @@ import keyword
 #print(keyword.kwlist)
 
 print("abcdefghijk"[2: 5] * 3)
-
+print("abcdefghijk"[2: 5] + "abcdefghijk"[2:])
 num_0 = 0
 if num_0 == 0:
     print(True)
