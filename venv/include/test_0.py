@@ -3,14 +3,15 @@
 import math
 import calendar
 import keyword
+import time;
 
 #dir(math)
 #dir(keyword)
 
-#print(keyword.kwlist)
+print(keyword.kwlist)
 
 print("abcdefghijk"[2: 5] * 3)
-print("abcdefghijk"[2: 5] + "abcdefghijk"[2:])
+print("abcdefghijk"[2: 5], "abcdefghijk"[2:])
 num_0 = 0
 if num_0 == 0:
     print(True)
@@ -54,7 +55,7 @@ print("以下输出2018年9月份的日历:")
 print(cal)
 
 print(calendar.month(tuple(calendar.nextmonth(2018, 9))[0], tuple(calendar.nextmonth(2018, 9))[1]))
-
+print(calendar.month(calendar.nextmonth(2018, 9)[0], calendar.nextmonth(2018, 9)[1]))
 
 def print_me(str_name):
     print(str_name)
@@ -70,6 +71,7 @@ while b < 1000:
     print(b, end=',')
     a, b = b, a+b
 print()
+
 list0 = [1, 2, 3, 4, 5, 6]
 print([i*2 for i in list0])
 print([[i*2, i*3] for i in list0])
@@ -93,3 +95,5 @@ if __name__ == '__main__':
     print('程序自身在运行')
 else:
     print('我来自另一模块')
+
+print("时间元组：",time.localtime(time.time()))

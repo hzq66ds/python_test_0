@@ -1,7 +1,8 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
-print("abcdefghijk"[2: 5] + "  " + "abcdefghijk"[2: 5] * 3)
+print("abcdefghijk"[0: 5])
+print("abcdefghijk"[2: 5], "abcdefghijk"[2: 5] * 3)
 print("----------------------------------------------------")
 print("hello\nworld")
 print("----------------------------------------------------")
