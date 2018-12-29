@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-
+import test_0
 print("abcdefghijk"[0: 5])
 print("abcdefghijk"[2: 5], "abcdefghijk"[2: 5] * 3)
 print("----------------------------------------------------")
@@ -53,6 +53,9 @@ print(a & b)  # a和b的交集
 print(a ^ b)  # a和b中不同时存在的元素
 print('-----------------------------------------------------')
 
+test_0.print_me("aaa")
 
-
-
+if __name__ == '__main__':
+    print('1程序自身在运行')
+else:
+    print('1我来自另一模块')

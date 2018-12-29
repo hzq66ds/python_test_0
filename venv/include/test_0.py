@@ -92,8 +92,11 @@ for q, a in zip(questions, answers):
 
 
 if __name__ == '__main__':
-    print('程序自身在运行')
+    print('0程序自身在运行')
 else:
-    print('我来自另一模块')
+    print('0我来自另一模块')
 
 print("时间元组：",time.localtime(time.time()))
+print(__name__)
+print(globals())
+print(locals())
