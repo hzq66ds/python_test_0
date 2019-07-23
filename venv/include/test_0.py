@@ -53,7 +53,9 @@ cal = calendar.month(2018, 9)
 print("以下输出2018年9月份的日历:")
 print(cal)
 
-print(calendar.month(tuple(calendar.nextmonth(2018, 9))[0], tuple(calendar.nextmonth(2018, 9))[1]))
+
+print(list(calendar.nextmonth(2018, 9)))
+print(calendar.month(list(calendar.nextmonth(2018, 9))[0], list(calendar.nextmonth(2018, 9))[1]))
 
 
 def print_me(str_name):
@@ -67,7 +69,7 @@ print_me("自定义方法")
 # 两个元素的总和确定了下一个数
 a, b = 0, 1
 while b < 1000:
-    print(b, end=',')
+    print(b, end = ',')
     a, b = b, a+b
 print()
 list0 = [1, 2, 3, 4, 5, 6]
