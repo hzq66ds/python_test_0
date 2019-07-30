@@ -15,7 +15,6 @@ for i in range(2, 98, 1):
     tb_req = requests.get(base_url, headers=headers).text[13:-1]
     tb_dict = simplejson.loads(tb_req)
     tb_json = json.dumps(tb_dict, indent=2)
-    print(tb_json)
     review_j = json.loads(tb_json)
-    print("获取的URL为：%s" % review_j["url"])
+    print("获取的URL为：%s" % review_j['url'])
     time.sleep(1)

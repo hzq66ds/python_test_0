@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e2d289-530e-4c21-bbe7-0ac86e709678" name="Default" comment="阿">
-      <change afterPath="$PROJECT_DIR$/pip3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_test_0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_test_0.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/include/hdfs3Demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/include/pyhdfsDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/include/test_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/numpy_test/numpytest01.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/numpy_test/numpytest01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/threades/thread_test004.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/threades/thread_test004.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +63,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/include/threades" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/include/matplotlib_test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -82,6 +78,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\GitHubWorkSpace\python_test_0\venv\include\matplotlib_test" />
       <recent name="I:\GitHubWorkSpace\python_test_0\venv\include\threades" />
       <recent name="$PROJECT_DIR$/venv/include" />
     </key>
@@ -103,8 +100,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.thread_test004">
-    <configuration name="HDFSTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test002">
+    <configuration name="numpytest01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,12 +109,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/hdfstest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/numpy_test" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/hdfstest/HDFSTest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/numpy_test/numpytest01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cufflinstest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test001" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,12 +131,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/cufflinkstest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/matplotlib_test" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/cufflinkstest/cufflinstest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/matplotlib_test/test001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hdfs3Demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test002" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,12 +153,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/hdfstest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/matplotlib_test" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/hdfstest/hdfs3Demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/matplotlib_test/test002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,19 +212,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hdfs3Demo" />
-      <item itemvalue="Python.HDFSTest" />
-      <item itemvalue="Python.cufflinstest" />
       <item itemvalue="Python.thread_test003" />
       <item itemvalue="Python.thread_test004" />
+      <item itemvalue="Python.test001" />
+      <item itemvalue="Python.numpytest01" />
+      <item itemvalue="Python.test002" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test002" />
+        <item itemvalue="Python.numpytest01" />
+        <item itemvalue="Python.test001" />
         <item itemvalue="Python.thread_test004" />
         <item itemvalue="Python.thread_test003" />
-        <item itemvalue="Python.cufflinstest" />
-        <item itemvalue="Python.HDFSTest" />
-        <item itemvalue="Python.hdfs3Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +239,7 @@
       <option name="presentableId" value="Default" />
       <updated>1543070554711</updated>
       <workItem from="1564395323507" duration="2250000" />
-      <workItem from="1564454321132" duration="11890000" />
+      <workItem from="1564454321132" duration="19078000" />
     </task>
     <task id="LOCAL-00001" summary="阿">
       <created>1543199933466</created>
@@ -297,11 +294,12 @@
     <SUITE FILE_PATH="coverage/python_test_0$cufflinks.coverage" NAME="cufflinks Coverage Results" MODIFIED="1564451268875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/cufflinkstest" />
     <SUITE FILE_PATH="coverage/python_test_0$pyhdfsDemo.coverage" NAME="pyhdfsDemo Coverage Results" MODIFIED="1564470979484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include" />
     <SUITE FILE_PATH="coverage/python_test_0$HDFSTest.coverage" NAME="HDFSTest Coverage Results" MODIFIED="1564472508418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/hdfstest" />
-    <SUITE FILE_PATH="coverage/python_test_0$test001.coverage" NAME="test001 Coverage Results" MODIFIED="1564465855262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/matplotlib_test" />
     <SUITE FILE_PATH="coverage/python_test_0$test_2.coverage" NAME="test_2 Coverage Results" MODIFIED="1564468851005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include" />
-    <SUITE FILE_PATH="coverage/python_test_0$thread_test003.coverage" NAME="thread_test003 Coverage Results" MODIFIED="1564474147772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/threades" />
-    <SUITE FILE_PATH="coverage/python_test_0$numpytest01.coverage" NAME="numpytest01 Coverage Results" MODIFIED="1564468626496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/numpy_test" />
+    <SUITE FILE_PATH="coverage/python_test_0$test001.coverage" NAME="test001 Coverage Results" MODIFIED="1564484230510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/matplotlib_test" />
+    <SUITE FILE_PATH="coverage/python_test_0$test002.coverage" NAME="test002 Coverage Results" MODIFIED="1564486468795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/matplotlib_test" />
+    <SUITE FILE_PATH="coverage/python_test_0$thread_test003.coverage" NAME="thread_test003 Coverage Results" MODIFIED="1564479625652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/threades" />
+    <SUITE FILE_PATH="coverage/python_test_0$numpytest01.coverage" NAME="numpytest01 Coverage Results" MODIFIED="1564484486250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/numpy_test" />
     <SUITE FILE_PATH="coverage/python_test_0$cufflinstest.coverage" NAME="cufflinstest Coverage Results" MODIFIED="1564474032165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/cufflinkstest" />
-    <SUITE FILE_PATH="coverage/python_test_0$thread_test004.coverage" NAME="thread_test004 Coverage Results" MODIFIED="1564474970726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/threades" />
+    <SUITE FILE_PATH="coverage/python_test_0$thread_test004.coverage" NAME="thread_test004 Coverage Results" MODIFIED="1564483843882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/threades" />
   </component>
 </project>
