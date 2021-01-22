@@ -19,9 +19,7 @@
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/gateway/vs-sso-server-xmn.yaml" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/ci/aliyun.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/code_work/git_work/devops/ci/aliyun.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/include/mysqljdbc/Mysqltest.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/mysqljdbc/Mysqltest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/include/numpy_test/numpytest01.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/numpy_test/numpytest01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/include/openpyxl_test/openpyxl_test_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/openpyxl_test/openpyxl_test_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/threades/thread_test001.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/threades/thread_test001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,26 +105,7 @@
       <recent name="$PROJECT_DIR$/venv/include/Weath" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.openpyxl_test_0">
-    <configuration name="Mysqltest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_test_0" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/mysqljdbc" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/mysqljdbc/Mysqltest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.thread_test001">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,17 +166,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="settingRead" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="regression_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/setting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/regression_tree" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/setting/settingRead.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/regression_tree/regression_tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,17 +185,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="thread_test001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/matplotlib_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/threades" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/matplotlib_test/test002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/threades/thread_test001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thread_test004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_test_0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/threades" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/threades/thread_test004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,19 +224,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Mysqltest" />
-      <item itemvalue="Python.test002" />
-      <item itemvalue="Python.settingRead" />
       <item itemvalue="Python.numpytest01" />
       <item itemvalue="Python.openpyxl_test_0" />
+      <item itemvalue="Python.regression_tree" />
+      <item itemvalue="Python.thread_test001" />
+      <item itemvalue="Python.thread_test004" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.thread_test001" />
+        <item itemvalue="Python.thread_test004" />
+        <item itemvalue="Python.regression_tree" />
         <item itemvalue="Python.openpyxl_test_0" />
         <item itemvalue="Python.numpytest01" />
-        <item itemvalue="Python.Mysqltest" />
-        <item itemvalue="Python.settingRead" />
-        <item itemvalue="Python.test002" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +254,7 @@
       <workItem from="1563623321896" duration="43632000" />
       <workItem from="1565088830549" duration="132000" />
       <workItem from="1611300324323" duration="3461000" />
-      <workItem from="1611304054060" duration="2587000" />
+      <workItem from="1611304054060" duration="3359000" />
     </task>
     <servers />
   </component>
