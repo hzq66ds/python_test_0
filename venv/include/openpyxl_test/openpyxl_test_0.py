@@ -4,7 +4,7 @@ from openpyxl.styles import colors, Font, Fill, NamedStyle
 from openpyxl.styles import PatternFill, Border, Side, Alignment
 
 # 加载文件
-wb = load_workbook('/Users/hanzhiqiang/Desktop/test.xlsx')
+wb = load_workbook('../filetest/xlsxtest001.xlsx')
 
 #wb.remove_sheet(new_sheet)
 print("sheetnames:\t%s" % wb.sheetnames)
