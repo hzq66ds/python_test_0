@@ -1,0 +1,5 @@
+mysql:
+  host: uniev-dev.rwlb.rds.aliyuncs.com
+  user: sso_whole_rw
+  password: skkhsop6lQf9ztBuio
+  db: sso_whole

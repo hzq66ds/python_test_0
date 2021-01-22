@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/code_work/git_work/devops/.idea/devops.iml" filepath="$USER_HOME$/Desktop/code_work/git_work/devops/.idea/devops.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python_test_0.iml" filepath="$PROJECT_DIR$/.idea/python_test_0.iml" />
     </modules>
   </component>
