@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e2d289-530e-4c21-bbe7-0ac86e709678" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_test_0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_test_0.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/cufflinkstest/cufflinstest.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/cufflinkstest/cufflinstest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/orc/Orc_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/orc/Orc_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/test_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/test_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/testpackage/test_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/testpackage/test_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/threades/b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/threades/b.txt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,50 +56,38 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/include/matplotlib_test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/include" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv/include" />
       <recent name="$PROJECT_DIR$/venv/include/matplotlib_test" />
       <recent name="$PROJECT_DIR$/venv/include/netTest" />
       <recent name="$PROJECT_DIR$/venv/include/filetest" />
       <recent name="$PROJECT_DIR$/venv/include/threades" />
-      <recent name="$PROJECT_DIR$/venv/include" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/venv/include/Weath" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.test002">
-    <configuration name="Net" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Orc_main">
+    <configuration name="Orc_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/netTest" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/orc" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/netTest/Net.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/orc/Orc_main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,42 +96,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mysqljdbc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/mysqljdbc" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/beans" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/mysqljdbc/mysqljdbc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test001" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_test_0" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/matplotlib_test" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/matplotlib_test/test001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/beans/Student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,42 +118,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test002" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cufflinstest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/matplotlib_test" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/cufflinkstest" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/matplotlib_test/test002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/cufflinkstest/cufflinstest.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="xlsxwriter_test001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/filetest" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/testpackage" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/filetest/xlsxwriter_test001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/testpackage/test_0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_test_0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/test_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,19 +185,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Net" />
-      <item itemvalue="Python.xlsxwriter_test001" />
-      <item itemvalue="Python.test001" />
-      <item itemvalue="Python.test002" />
-      <item itemvalue="Python.mysqljdbc" />
+      <item itemvalue="Python.Student" />
+      <item itemvalue="Python.cufflinstest" />
+      <item itemvalue="Python.test_2" />
+      <item itemvalue="Python.test_0" />
+      <item itemvalue="Python.Orc_main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test002" />
-        <item itemvalue="Python.mysqljdbc" />
-        <item itemvalue="Python.test001" />
-        <item itemvalue="Python.Net" />
-        <item itemvalue="Python.xlsxwriter_test001" />
+        <item itemvalue="Python.Orc_main" />
+        <item itemvalue="Python.test_0" />
+        <item itemvalue="Python.cufflinstest" />
+        <item itemvalue="Python.test_2" />
+        <item itemvalue="Python.Student" />
       </list>
     </recent_temporary>
   </component>
@@ -243,6 +238,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -256,16 +252,20 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_test_0$thread_test002.coverage" NAME="thread_test002 Coverage Results" MODIFIED="1563797866476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/threades" />
-    <SUITE FILE_PATH="coverage/python_test_0$Net.coverage" NAME="Net Coverage Results" MODIFIED="1563894373817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/netTest" />
-    <SUITE FILE_PATH="coverage/python_test_0$test_0.coverage" NAME="test_0 Coverage Results" MODIFIED="1563623832428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include" />
-    <SUITE FILE_PATH="coverage/python_test_0$test_2.coverage" NAME="test_2 Coverage Results" MODIFIED="1563675543523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include" />
-    <SUITE FILE_PATH="coverage/python_test_0$test001.coverage" NAME="test001 Coverage Results" MODIFIED="1563971588634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/matplotlib_test" />
-    <SUITE FILE_PATH="coverage/python_test_0$xlsxwriter_test.coverage" NAME="xlsxwriter_test Coverage Results" MODIFIED="1563803729224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/filetest" />
-    <SUITE FILE_PATH="coverage/python_test_0$xlsxwriter_test001.coverage" NAME="xlsxwriter_test001 Coverage Results" MODIFIED="1563804857248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/filetest" />
+    <SUITE FILE_PATH="coverage/python_test_0$thread_test003.coverage" NAME="thread_test003 Coverage Results" MODIFIED="1611281523954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/threades" />
+    <SUITE FILE_PATH="coverage/python_test_0$test.coverage" NAME="test Coverage Results" MODIFIED="1611216448370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/Weath" />
     <SUITE FILE_PATH="coverage/python_test_0$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1563624018085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include" />
-    <SUITE FILE_PATH="coverage/python_test_0$thread_test001.coverage" NAME="thread_test001 Coverage Results" MODIFIED="1563720336475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/threades" />
-    <SUITE FILE_PATH="coverage/python_test_0$Student.coverage" NAME="Student Coverage Results" MODIFIED="1563640282664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/beans" />
-    <SUITE FILE_PATH="coverage/python_test_0$test.coverage" NAME="test Coverage Results" MODIFIED="1563638742876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/Weath" />
+    <SUITE FILE_PATH="coverage/python_test_0$xlsxwriter_test001.coverage" NAME="xlsxwriter_test001 Coverage Results" MODIFIED="1563804857248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/filetest" />
+    <SUITE FILE_PATH="coverage/python_test_0$xlsxwriter_test.coverage" NAME="xlsxwriter_test Coverage Results" MODIFIED="1563803729224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/filetest" />
+    <SUITE FILE_PATH="coverage/python_test_0$Net.coverage" NAME="Net Coverage Results" MODIFIED="1563894373817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/netTest" />
+    <SUITE FILE_PATH="coverage/python_test_0$test_2.coverage" NAME="test_2 Coverage Results" MODIFIED="1611286640733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include" />
+    <SUITE FILE_PATH="coverage/python_test_0$cufflinstest.coverage" NAME="cufflinstest Coverage Results" MODIFIED="1611286869407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/cufflinkstest" />
+    <SUITE FILE_PATH="coverage/python_test_0$Orc_main.coverage" NAME="Orc_main Coverage Results" MODIFIED="1611288413773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/orc" />
+    <SUITE FILE_PATH="coverage/python_test_0$thread_test001.coverage" NAME="thread_test001 Coverage Results" MODIFIED="1611281305363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/threades" />
+    <SUITE FILE_PATH="coverage/python_test_0$test_0.coverage" NAME="test_0 Coverage Results" MODIFIED="1611287037583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/testpackage" />
+    <SUITE FILE_PATH="coverage/python_test_0$test001.coverage" NAME="test001 Coverage Results" MODIFIED="1563971588634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/matplotlib_test" />
+    <SUITE FILE_PATH="coverage/python_test_0$thread_test002.coverage" NAME="thread_test002 Coverage Results" MODIFIED="1611281396280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/threades" />
+    <SUITE FILE_PATH="coverage/python_test_0$Student.coverage" NAME="Student Coverage Results" MODIFIED="1611285568343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/beans" />
+    <SUITE FILE_PATH="coverage/python_test_0$test_3.coverage" NAME="test_3 Coverage Results" MODIFIED="1611215108350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include" />
   </component>
 </project>

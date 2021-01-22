@@ -3,7 +3,7 @@
 import math
 import calendar
 import keyword
-import time;
+import time
 
 #dir(math)
 #dir(keyword)
@@ -96,7 +96,7 @@ if __name__ == '__main__':
 else:
     print('0我来自另一模块')
 
-print("时间元组：",time.localtime(time.time()))
+print("时间元组：", time.localtime(time.time()))
 print(__name__)
 print(globals())
 print(locals())
