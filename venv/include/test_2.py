@@ -37,13 +37,16 @@ class MyClass:
 
 if __name__ == "__main__":
     printHello('printHello')
-    printHello('printHello')
-    printHello('printHello')
     a_fun = lambda a, b: a + b
     print(a_fun(1, 2))
+
     f = open("test_2.py")
     print(f.read())
     f.close()
+
+    with open("test_2.py") as fi:
+        print(fi.read())
+
     print(os.getcwd())
     try:
         fun(1)

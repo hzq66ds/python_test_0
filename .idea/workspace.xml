@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e2d289-530e-4c21-bbe7-0ac86e709678" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/app/dipper-tvs-api/auto-scaler.yaml" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/app/dipper-tvs-api/deploy.yaml" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/app/dipper-tvs-api/service.yaml" beforeDir="false" />
@@ -18,7 +19,11 @@
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/gateway/vs-sso-server-tvs.yaml" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/gateway/vs-sso-server-xmn.yaml" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/ci/aliyun.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/code_work/git_work/devops/ci/aliyun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_test_0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_test_0.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/python3_web.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/python3_web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/test_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/test_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/include/threades/thread_test001.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/threades/thread_test001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,18 +74,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="hzq66ds" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="python_test_0" />
   </component>
   <component name="ProjectId" id="1P338aSQ0XohIrjXjRX8ijXXVa5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/include/setting" />
@@ -89,7 +105,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -105,7 +121,7 @@
       <recent name="$PROJECT_DIR$/venv/include/Weath" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.thread_test001">
+  <component name="RunManager" selected="Python.python3_web">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,17 +144,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numpytest01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python3_web" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/numpy_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/numpy_test/numpytest01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/python3_web.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,17 +163,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="openpyxl_test_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/openpyxl_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/openpyxl_test/openpyxl_test_0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,17 +185,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regression_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/regression_tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/regression_tree/regression_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/test_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,6 +211,9 @@
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/threades" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -208,6 +233,9 @@
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/threades" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -224,25 +252,25 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.numpytest01" />
-      <item itemvalue="Python.openpyxl_test_0" />
-      <item itemvalue="Python.regression_tree" />
       <item itemvalue="Python.thread_test001" />
       <item itemvalue="Python.thread_test004" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.test_2" />
+      <item itemvalue="Python.python3_web" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.thread_test001" />
+        <item itemvalue="Python.python3_web" />
+        <item itemvalue="Python.test_2" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.thread_test004" />
-        <item itemvalue="Python.regression_tree" />
-        <item itemvalue="Python.openpyxl_test_0" />
-        <item itemvalue="Python.numpytest01" />
+        <item itemvalue="Python.thread_test001" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -254,7 +282,10 @@
       <workItem from="1563623321896" duration="43632000" />
       <workItem from="1565088830549" duration="132000" />
       <workItem from="1611300324323" duration="3461000" />
-      <workItem from="1611304054060" duration="3359000" />
+      <workItem from="1611304054060" duration="4876000" />
+      <workItem from="1611540381104" duration="1073000" />
+      <workItem from="1611567276941" duration="7905000" />
+      <workItem from="1611632142034" duration="710000" />
     </task>
     <servers />
   </component>
@@ -282,6 +313,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -306,6 +340,7 @@
     <SUITE FILE_PATH="coverage/python_test_0$Orc_main.coverage" NAME="Orc_main Coverage Results" MODIFIED="1611288413773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/orc" />
     <SUITE FILE_PATH="coverage/python_test_0$thread_test001.coverage" NAME="thread_test001 Coverage Results" MODIFIED="1611281305363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/threades" />
     <SUITE FILE_PATH="coverage/python_test_0$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1611297266252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/http" />
+    <SUITE FILE_PATH="coverage/python_test_0$python3_web.coverage" NAME="python3_web Coverage Results" MODIFIED="1611308173994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include" />
     <SUITE FILE_PATH="coverage/python_test_0$test_0.coverage" NAME="test_0 Coverage Results" MODIFIED="1611287037583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/testpackage" />
     <SUITE FILE_PATH="coverage/python_test_0$thread_test002.coverage" NAME="thread_test002 Coverage Results" MODIFIED="1611281396280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/threades" />
     <SUITE FILE_PATH="coverage/python_test_0$Student.coverage" NAME="Student Coverage Results" MODIFIED="1611285568343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/include/beans" />
