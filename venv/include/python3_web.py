@@ -3,12 +3,17 @@ import re  # 引入正则表达式对象
 import urllib  # 用于对URL进行编解码
 from http.server import HTTPServer, BaseHTTPRequestHandler  # 导入HTTP处理相关的模块
 
+
 # 将当前目录http： python -m http.server 8888 &
 # 搜索8888端口占用： lsof -i tcp:8888
 
 # 自定义处理程序，用于处理HTTP请求
 class TestHTTPHandler(BaseHTTPRequestHandler):
     # 处理GET请求
+    def __init__(self, request: bytes, client_address: Tuple[str, int], server: socketserver.BaseServer):
+        super().__init__(request, client_address, server)
+        self.protocal_version = 'HTTP/1.1'  # 设置协议版本
+
     def do_GET(self):
         # 页面输出模板字符串
         templateStr = '''  
@@ -34,10 +39,9 @@ class TestHTTPHandler(BaseHTTPRequestHandler):
 
         if match:
             # 使用Match获得分组信息
-            qrImg = '<img src="http://chart.apis.google.com/chart?chs=300x300&cht=qr&choe=UTF-8&chl=' + match.group(
-                1) + '" /><br />' + urllib.unquote(match.group(1))
+            qrImg = '<img src="http://chart.apis.google.com/chart?chs=300x300&cht=qr&choe=UTF-8&chl=' + match.group(1) \
+                    + '" /><br />' + urllib.unquote(match.group(1))
 
-        self.protocal_version = 'HTTP/1.1'  # 设置协议版本
         self.send_response(200)  # 设置响应状态码
         self.send_header("Welcome", "Contect")  # 设置响应头
         self.end_headers()

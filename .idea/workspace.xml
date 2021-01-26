@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e2d289-530e-4c21-bbe7-0ac86e709678" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/app/dipper-tvs-api/auto-scaler.yaml" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/app/dipper-tvs-api/deploy.yaml" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/app/dipper-tvs-api/service.yaml" beforeDir="false" />
@@ -19,12 +18,8 @@
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/gateway/vs-sso-server-tvs.yaml" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/gateway/vs-sso-server-xmn.yaml" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/ci/aliyun.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/code_work/git_work/devops/ci/aliyun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_test_0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_test_0.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/include/python3_web.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/python3_web.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/include/test_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/test_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/include/threades/thread_test001.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/threades/thread_test001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,7 +280,7 @@
       <workItem from="1611304054060" duration="4876000" />
       <workItem from="1611540381104" duration="1073000" />
       <workItem from="1611567276941" duration="7905000" />
-      <workItem from="1611632142034" duration="710000" />
+      <workItem from="1611632142034" duration="1139000" />
     </task>
     <servers />
   </component>
