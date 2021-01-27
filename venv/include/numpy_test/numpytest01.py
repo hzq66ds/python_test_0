@@ -15,7 +15,9 @@ if __name__ == '__main__':
     for i in range(2, 98, 1):
         try:
             url = base_url + '&currentPage=%s' % str(i)
+            print(requests.get(base_url, headers=headers).text)
             tb_req = requests.get(base_url, headers=headers).text[13:-1]
+            print(tb_req)
             tb_dict = simplejson.loads(tb_req)
             tb_json = json.dumps(tb_dict, indent=2)
             review_j = json.loads(tb_json)
