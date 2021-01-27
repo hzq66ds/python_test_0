@@ -18,8 +18,10 @@
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/gateway/vs-sso-server-tvs.yaml" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/aliyun-prod/gov-ns/gateway/vs-sso-server-xmn.yaml" beforeDir="false" />
       <change beforePath="$USER_HOME$/Desktop/code_work/git_work/devops/ci/aliyun.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/code_work/git_work/devops/ci/aliyun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/include/python3_web.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/python3_web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/orc/Orc_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/orc/Orc_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/include/setting/settingRead.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/include/setting/settingRead.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +96,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/include/setting" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/include/orc" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -104,11 +106,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv/include/orc" />
       <recent name="$PROJECT_DIR$/venv/include/setting" />
       <recent name="$PROJECT_DIR$/venv/include/mysqljdbc" />
       <recent name="$PROJECT_DIR$/venv/include" />
       <recent name="$PROJECT_DIR$/venv/include/matplotlib_test" />
-      <recent name="$PROJECT_DIR$/venv/include/netTest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/venv/include/mysqljdbc" />
@@ -116,7 +118,26 @@
       <recent name="$PROJECT_DIR$/venv/include/Weath" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.python3_web">
+  <component name="RunManager" selected="Python.Orc_main">
+    <configuration name="Orc_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_test_0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/orc" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/orc/Orc_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,6 +164,9 @@
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -202,28 +226,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="thread_test001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_test_0" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/include/threades" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/include/threades/thread_test001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="thread_test004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_test_0" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,19 +249,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.thread_test001" />
       <item itemvalue="Python.thread_test004" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.test_2" />
       <item itemvalue="Python.python3_web" />
+      <item itemvalue="Python.Orc_main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Orc_main" />
         <item itemvalue="Python.python3_web" />
         <item itemvalue="Python.test_2" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.thread_test004" />
-        <item itemvalue="Python.thread_test001" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +282,8 @@
       <workItem from="1611304054060" duration="4876000" />
       <workItem from="1611540381104" duration="1073000" />
       <workItem from="1611567276941" duration="7905000" />
-      <workItem from="1611632142034" duration="1139000" />
+      <workItem from="1611632142034" duration="2512000" />
+      <workItem from="1611712646851" duration="805000" />
     </task>
     <servers />
   </component>

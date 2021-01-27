@@ -1,0 +1,5 @@
+baidu:
+  ocr:
+    grant_type: client_credentials
+    client_id: 66HRzdfYGGRAg4c5U87sW1W7
+    client_secret: M1X2wXaVrGNA963d2EwtyUHIf4WmBOuM
